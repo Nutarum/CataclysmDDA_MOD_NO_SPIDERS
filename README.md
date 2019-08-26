@@ -4,6 +4,13 @@ This mod is suposed to remove all spiders, and all locations with spider and web
 
 This is my first cataclysm dda mod, so expect some spider locations to spawn :(
 
+## Instalation
+
+	just copy the folder No_Spiders into the cataclysm dda mod folder 
+	GameFolder/data/mods/
+	
+	Then you can activate the mod when you create a new world
+
 ### Monsters removed
 	- mon_spider_cellar_giant
 	- mon_spider_cellar_giant_s
@@ -29,6 +36,9 @@ This is my first cataclysm dda mod, so expect some spider locations to spawn :(
 	overmap_terrain:
 		- basement_spider (replaced by basement_junk)
 
+### Other things removed
+	
+	Fields of webs
 		
 ### Spider things not removed
 	
