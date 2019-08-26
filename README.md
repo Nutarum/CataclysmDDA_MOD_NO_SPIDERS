@@ -1,0 +1,1 @@
+# CataclysmDDA_MOD_NO_SPIDERS
