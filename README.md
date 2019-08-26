@@ -38,7 +38,7 @@ This is my first cataclysm dda mod, so expect some spider locations to spawn :(
 
 ### Other things removed
 	
-	Fields of webs
+	Fields of webs, (replaced with leaves)
 		
 ### Spider things not removed
 	

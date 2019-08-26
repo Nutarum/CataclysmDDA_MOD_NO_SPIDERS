@@ -3,8 +3,12 @@
 {
     "id": "fd_web",
     "type": "field_type",
-    "legacy_enum_id": 0,
-    "intensity_levels": [ { "name": "nothing" } ]
+    "legacy_enum_id": 5,
+    "intensity_levels": [
+      { "name": "shredded leaves and twigs", "sym": "~", "color": "light_green" }
+    ],
+	"priority": 2,
+    "phase": "solid",
     "display_items": false,
     "display_field": true
   }
