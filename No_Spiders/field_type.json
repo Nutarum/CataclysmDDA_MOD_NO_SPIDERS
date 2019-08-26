@@ -1,0 +1,11 @@
+
+[
+{
+    "id": "fd_web",
+    "type": "field_type",
+    "legacy_enum_id": 0,
+    "intensity_levels": [ { "name": "nothing" } ]
+    "display_items": false,
+    "display_field": true
+  }
+  ]

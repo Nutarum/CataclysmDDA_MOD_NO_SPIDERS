@@ -1,0 +1,22 @@
+ [
+ {
+    "id": "mx_house_spider",
+    "type": "map_extra",
+    "name": "Spider Nest",
+    "description": "There is nothing here (NO-SPIDERS-MOD)",
+    "generator": { "generator_method": "map_extra_function", "generator_id": "mx_crater" },
+    "sym": "x",
+    "color": "yellow",
+    "autonote": true
+  },
+    {
+    "id": "mx_spider",
+    "type": "map_extra",
+    "name": "Spiders",
+   "description": "There is a crater here (NO-SPIDERS-MOD)",
+    "generator": { "generator_method": "map_extra_function", "generator_id": "mx_crater" },
+    "sym": "x",
+    "color": "yellow",
+    "autonote": true
+  }
+  ]
