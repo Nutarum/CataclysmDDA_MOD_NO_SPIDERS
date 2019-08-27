@@ -5,7 +5,9 @@
     "type": "field_type",
     "legacy_enum_id": 5,
     "intensity_levels": [
-      { "name": "shredded leaves and twigs", "sym": "~", "color": "light_green" }
+      { "name": "shredded leaves and twigs", "sym": "~", "color": "light_green" },
+	  { "name": "shattered branches and leaves" },
+      { "name": "broken vegetation tangle", "color": "green" }
     ],
 	"priority": 2,
     "phase": "solid",
